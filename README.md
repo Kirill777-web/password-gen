@@ -21,12 +21,12 @@ Adjust the password criteria using the available options:
 - Include special characters: Click OK/Cancel to select or deselect this option to include special characters (e.g., !@#$%) in the password.
 - Click the "Generate Password" button to create a new password based on your selected criteria.
 
-- This is the link to my application [GitHub pages](https://github.com/Kirill777-web/web-dev-journey)
+- This is the link of my application [GitHub pages](https://kirill777-web.github.io/password-gen/)
 - This is the link of my [GitHub repository](https://github.com/Kirill777-web/password-gen)
 
 The following screenshots show the application final output:
 
-![screenshot password-gen app ](/assests/images/full%20screen.png 'screenshot')
+![screenshot password-gen app ](/Assets/password-gen.png 'screenshot')
 
 ## Credits
 
