@@ -2,7 +2,7 @@
 
 ## Description
 
-JavaScript-based password generator tool. It allows you to create strong and secure passwords with customizable options. You have the flexibility to choose the composition of your password, including lowercase letters, uppercase letters, numbers, and special characters, to suit your specific security requirements.
+JavaScript-based password generator tool. It allows you to create strong and secure passwords with customizable options. You have the flexibility to choose the composition of your password between 8 and 128 characters, including lowercase letters, uppercase letters, numbers, and special characters, to suit your specific security requirements.
 
 ## Instalation
 
